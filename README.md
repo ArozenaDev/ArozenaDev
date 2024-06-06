@@ -6,6 +6,8 @@ My interests are films, tv shows, manga and anime, martial arts and all things r
 
 In my path to coding, I'm learning Java, SQL, HTML, CSS, JS, PHP... the aim is to become a full-stack developer with deep understanding of how things work.
 
+Currently, I'm focusing my efforts on ASP.Net Core MVC, React and Symfony.
+
 I will be uploading my training projects here and I' looking forward to collaborate on every project I have the chance to contribute to.
 
 <b>Cheers</b>!
