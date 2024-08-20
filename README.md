@@ -1,16 +1,12 @@
-👋 Hi! My name is <b>Jose Arozena</b>. I have been studying hard to become a developer. I have a <b>Bachellor Degree in TEFL</b> (Teaching English as a Foreign Language) and during
-the last two years I have been studying to get a <b>HNC in Web Development</b>, as well as self-taught learning to code. Pandemics had a deep impact on me and I decided to quit on 
-my job as a teacher to fulfill my dream to become a developer.
+👋 Hi there! I'm <b>Jose Arozena</b>, a passionate web developer with an <b>HNC in Web Development</b> and a <b>Bachelor's Degree in TEFL</b> (Teaching English as a Foreign Language).
 
-My interests are films, tv shows, manga and anime, martial arts and all things related to technology.
+I'm driven by a love for technology, and I'm always eager to explore new tools and frameworks. My interests also span films, TV shows, manga, anime, and martial arts.
 
-In my path to coding, I'm learning Java, SQL, HTML, CSS, JS, PHP... the aim is to become a full-stack developer with deep understanding of how things work.
+On my journey to becoming a full-stack developer, I've gained proficiency in Java, SQL, HTML, CSS, JavaScript, PHP, and more. My goal is to master the full development stack and understand the inner workings of technology.
 
-Currently, I'm focusing my efforts on ASP.Net Core MVC, React and Symfony.
+Currently, I'm honing my skills in ASP.NET Core MVC, React, and Symfony. I'll be sharing my projects here, and I'm excited about the possibility of collaborating on any project where I can make a meaningful contribution.
 
-I will be uploading my training projects here and I' looking forward to collaborate on every project I have the chance to contribute to.
-
-<b>Cheers</b>!
+<b>Cheers!</b>
 
 <!---
 ArozenaDev/ArozenaDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
